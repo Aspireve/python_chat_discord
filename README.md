@@ -13,7 +13,7 @@ ___
 
 ## Output of the programing
 ---
-| !["final output"]("Screenshot 2022-09-19 035602.png")  | 
+|  ![Screenshot 2022-09-19 035602](https://user-images.githubusercontent.com/93852415/190931875-2ea4dde6-31a9-4ebc-ad02-55e0611162e1.png)| 
 | :---: |
 
 ## How to run the program
